@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+websockets
+faster-whisper
+piper-tts
+SQLAlchemy
+soundfile
+numpy
+python-multipart
+pydantic
+jinja2
+openwakeword
+chromadb
+langchain
+langchain-community
+sentence-transformers
+PyYAML
